@@ -1,0 +1,8 @@
+/build/
+*.jar
+!module2.jar
+application-local.properties
+/.idea/
+/.idea_copy/*
+!workspace.xml
+#файл module2.jar по прежнему должен игнорироваться
